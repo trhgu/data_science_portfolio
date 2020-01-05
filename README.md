@@ -13,3 +13,4 @@
 ## Machine learning
 
 - [classify the species of a Iris flower](https://github.com/trhgu/TIL/blob/master/iris_species_classification.ipynb)
+    - algorithm : LDA, QDA, Naive Bayes
