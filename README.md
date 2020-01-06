@@ -14,4 +14,4 @@
 ## Machine learning
 
 - [classify the species of a Iris flower](https://github.com/trhgu/TIL/blob/master/iris_species_classification.ipynb) : Produce LDA, QDA, Naive Bayes model to classify the species of a Iris flower  (in fastcampus data science class)
-- [classify the theme of news articles](https://github.com/trhgu/TIL/blob/master/news_ariticle_calssification.ipynb) : Produce Naive Bayes model to classify theme of news articles. (Text vectorizer : TF-IDF) (in fastcampus data science class)
+- [classify the theme of news articles](https://github.com/trhgu/TIL/blob/master/news_ariticle_calssification.ipynb) : Produce Naive Bayes model to classify theme of news articles. Using TF-IDF as Text vectorizer (in fastcampus data science class)
