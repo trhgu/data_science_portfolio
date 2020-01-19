@@ -6,6 +6,8 @@
 
 - [prediction of house price (written in Korean)](https://github.com/trhgu/EDA_project/blob/master/EDA_final.ipynb) : EDA data included/ Produce linear model to predict the house price in Korea.
 
+- [prediction of EPL point](https://github.com/trhgu/TIL/blob/master/predict_pl_point.ipynb) : Produce linear regression model to predict a EPL team's point base in "goal for" and "goal against"
+
 ## Machine learning
 ### supervised
 - [recommend the fashion retail shop to brand](https://github.com/trhgu/recommendation_fashion_retail_shop/blob/master/pre_research_analyse.ipynb): Produce Gradient Boosting model help to decide whether entering a retail shop or not to fashion brand/ core packege : sklearn
