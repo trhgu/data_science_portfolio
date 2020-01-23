@@ -14,7 +14,7 @@
 - [classify the theme of news articles](https://github.com/trhgu/TIL/blob/master/news_article_clssification.ipynb) : Produce Naive Bayes model to classify theme of news articles. Using TF-IDF as Text vectorizer/ core packege : sklearn (in fastcampus data science class)
 - [classify the species of a Iris flower](https://github.com/trhgu/TIL/blob/master/iris_species_classification.ipynb) : Produce LDA, QDA, Naive Bayes model to classify the species of a Iris flower/ core packege : sklearn (in fastcampus data science class)
 ### unsupervised
-- [sugget sub topic in fashion marketing field (wirtten in Korean)](https://github.com/trhgu/KSCT_topic_modeling/blob/master/KSCT_Topic%20Modeling.pdf/)core package : gensim 
+- [suggest sub topic in fashion marketing field (wirtten in Korean)](https://github.com/trhgu/KSCT_topic_modeling/blob/master/KSCT_Topic%20Modeling.pdf/)core package : gensim 
 ## Data Crawling
 
 - [craw KBO results for Prediction_of_Attendance_in_KBO (crawling tool : python requests)](https://github.com/trhgu/crawling_season_1/blob/master/KBO_results/KBO_rank_example.ipynb)
