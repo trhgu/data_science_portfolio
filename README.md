@@ -19,7 +19,7 @@
 
 ## Data Crawling
 
-- [craw KBO results for Prediction_of_Attendance_in_KBO (crawling tool : python requests)](https://github.com/trhgu/crawling_season_1/blob/master/KBO_results/KBO_rank_example.ipynb)
-- [craw KBO ranks for Prediction_of_Attendance_in_KBO (crawling tool : python requests)](https://github.com/trhgu/crawling_season_1/blob/master/KBO_rank/KBO_rank_example.ipynb)
-
-## Query(preprocessing)
+- [craw KBO results(crawling tool : python requests)](https://github.com/trhgu/crawling_season_1/blob/master/KBO_results/KBO_rank_example.ipynb)
+- [craw KBO ranks(crawling tool : python requests)](https://github.com/trhgu/crawling_season_1/blob/master/KBO_rank/KBO_rank_example.ipynb)
+- [craw community(crawling tool : python scrapy)](https://github.com/trhgu/Prediction_of_Attendance_in_KBO/tree/master/crawling_mpark)
+- [craw selectshop item(crawling tool: python scrapy)](https://github.com/trhgu/recommendation_fashion_retail_shop/tree/master/w_selectshop)
