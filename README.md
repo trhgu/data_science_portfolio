@@ -10,7 +10,7 @@
 
 ## Regression
 
-- [prediction of Jamsil baseball park attendance (written in Korean)](https://github.com/trhgu/Prediction_of_Attendance_in_KBO/blob/master/analysis_OLS.ipynb) : Produce mixed model to predict the  attendance to Jamsil baseball park/ core packege : stats model
+- [prediction of Jamsil baseball park attendance (written in Korean)](https://github.com/trhgu/Prediction_of_Attendance_in_KBO/blob/master/analysis_OLS.ipynb) : Produce mixed model to predict the  attendance to Jamsil baseball park/ core package : stats model
 
 - [prediction of house price (written in Korean)](https://github.com/trhgu/EDA_project/blob/master/EDA_final.ipynb) : EDA data included/ Produce linear model to predict the house price in Korea.
 
