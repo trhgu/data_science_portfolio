@@ -2,9 +2,10 @@
 
 ## Machine learning
 ### supervised
-- [recommend the fashion retail shop to brand](https://github.com/trhgu/recommendation_fashion_retail_shop/blob/master/pre_research_analyse.ipynb): Produce Gradient Boosting model help to decide whether entering a retail shop or not to fashion brand/ core packege : sklearn
-- [classify the theme of news articles](https://github.com/trhgu/TIL/blob/master/news_article_clssification.ipynb) : Produce Naive Bayes model to classify theme of news articles. Using TF-IDF as Text vectorizer/ core packege : sklearn (in fastcampus data science class)
-- [classify the species of a Iris flower](https://github.com/trhgu/TIL/blob/master/iris_species_classification.ipynb) : Produce LDA, QDA, Naive Bayes model to classify the species of a Iris flower/ core packege : sklearn (in fastcampus data science class)
+- [recommend the fashion retail shop to brand](https://github.com/trhgu/recommendation_fashion_retail_shop/blob/master/pre_research_analyse.ipynb): Produce Gradient Boosting model help to decide whether entering a retail shop or not to fashion brand/ core package : sklearn
+- [classify the theme of news articles](https://github.com/trhgu/TIL/blob/master/news_article_clssification.ipynb) : Produce Naive Bayes model to classify theme of news articles. Using TF-IDF as Text vectorizer/ core package : sklearn (in fastcampus data science class)
+- [classify the species of a Iris flower](https://github.com/trhgu/TIL/blob/master/iris_species_classification.ipynb) : Produce LDA, QDA, Naive Bayes model to classify the species of a Iris flower/ core package : sklearn (in fastcampus data science class)
+- [Image multi label classification](https://github.com/trhgu/multilabelclassification) : /core package:pytorch
 ### unsupervised
 - [suggest sub topic in fashion marketing field](https://github.com/trhgu/KSCT_topic_modeling/blob/master/Topic_Modeling(KSCT).ipynb)/core package : gensim 
 
